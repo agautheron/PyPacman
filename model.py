@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 26 16:54:51 2018
+
+@author: arthur.gautheron
+
+@version: 1
+"""
 import random
 
 class Vector:
