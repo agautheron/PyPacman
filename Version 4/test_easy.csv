@@ -1,0 +1,11 @@
+lignes;5
+colonnes;5
+board;"xxx xxx xxx xxx xxx
+xxx b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 xxx 
+xxx xxx xxx xxx xxx "
+cavernPosition;-5,8
+cavernWidth;0
+cavernHeight;0
+cavernMiddle;-5,9
