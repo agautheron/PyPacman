@@ -3,6 +3,8 @@
 Created on Tue Nov 27 16:20:59 2018
 
 @author: Arthur Gautheron
+
+@version :1
 """
 
 import model as model
