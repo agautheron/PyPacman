@@ -5,7 +5,7 @@ Created on Tue Nov 27 16:20:59 2018
 @author: Arthur Gautheron
 """
 
-import model1 as model
+import model as model
 
 c=''
 
