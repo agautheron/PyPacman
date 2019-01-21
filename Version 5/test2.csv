@@ -1,0 +1,21 @@
+lignes;15
+colonnes;19
+board;"xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 xxx xxx xxx xxx xxx xxx CCC     CCC xxx xxx xxx xxx xxx xxx b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 CCC     CCC b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 CCC CCC CCC b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 b.1 xxx 
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx "
+cavernPosition;(2,8)
+cavernWidth;3
+cavernHeight;3
+cavernMiddle;(3,9)
